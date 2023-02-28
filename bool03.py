@@ -7,6 +7,6 @@ def main(b):
         bool
     """
     # Write your code here
-    return b == abs(b)
+    return b > 0
 
-print(main(6))
+print(main(85))
