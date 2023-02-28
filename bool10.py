@@ -9,4 +9,4 @@ def main(a):
     # Write your code here
     return a ** 2
 
-print(main(4))
+print(main(9))
