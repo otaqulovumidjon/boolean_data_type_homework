@@ -9,4 +9,4 @@ def main(a):
     # Write your code here
     return int(a) > 0
 
-print(main(193))
+print(main(19))
