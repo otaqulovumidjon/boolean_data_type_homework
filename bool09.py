@@ -8,6 +8,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return a == abs(a) and a != 0 and a == int(a)
+    return a == int(abs(a)) != 0
 
 print(main(3))
