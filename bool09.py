@@ -10,4 +10,4 @@ def main(a):
     # Write your code here
     return a == abs(a) and a != 0 and a == int(a)
 
-print(main(9.4))
+print(main())
